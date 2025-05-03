@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shivam Shrivastav  
-**A passionate Software Engineer || Full Stack Developer || From India**
+**A Passionate Software Engineer || Full Stack Developer || From India**
 
 📧 **Email Me:** shivamshrivastav26112005@gmail.com  
 For Collaboration, Projects, or Anything Else 😊😊
@@ -44,8 +44,3 @@ For Collaboration, Projects, or Anything Else 😊😊
 ---
 [![](https://visitcount.itsvg.in/api?id=ShivamShrivastav26112005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/9670190292@ptaxis) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
